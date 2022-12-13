@@ -1,0 +1,9 @@
+# CMSI 5350 PS0 Starter Code
+
+This repository contains some unfinished Python programs that you will complete. Write the code according to the lab instructions.
+
+Code provided by Dr. Jessica Wu (HMC)
+
+Name: Zander Zemliak
+
+NOTE: Write-up portion for the visualization section is on Brightspace!
